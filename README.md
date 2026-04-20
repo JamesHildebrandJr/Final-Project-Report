@@ -1,9 +1,7 @@
 # Final-Project-Report
-Mass-Vulnerability-Assessment-of-Web-Applications-Using-Snort-
-
 Used Snort custom rules to monitor website traffic and check for possible vulnerabilities.
-
 This project uses Snort custom rules to monitor website traffic and check for possible vulnerabilities.
+
 Project Overview
 
 Our group used Snort as a network intrusion detection tool to analyze traffic generated while visiting real websites. The goal was to better understand how Snort works and see whether custom rules could detect suspicious or vulnerable traffic patterns.
